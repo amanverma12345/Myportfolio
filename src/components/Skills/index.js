@@ -11,8 +11,10 @@ z-index: 1;
 align-items: center;
 padding: 40px 0px 80px 0px;
 
+
 @media (max-width: 960px) {
   padding: 0px;
+  padding-bottom:50px;
 }
 
 clip-path: polygon(0 0, 100% 0, 100% 100%, 100% 98%, 0 100%);

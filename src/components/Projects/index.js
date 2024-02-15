@@ -13,6 +13,7 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 position: relative;
+padding-top: 25px;
 z-index: 1;
 align-items: center;
 clip-path: polygon(0 0, 100% 0, 100% 100%, 100% 98%, 0 100%);
@@ -28,6 +29,7 @@ position: relative;
 width: 100%
 gap: 12px;
 padding: 10px 0px 100px 0px;
+
 `;
 
 const Title = styled.div`
