@@ -4,7 +4,6 @@ export const Bio = {
       "ReactJs Developer",
       "php Developer",
       "Laravel Developer",
-      "Java Developer",
       "Full Stack Developer",
       "Front-End Developer",
       "Back-End Developer",
