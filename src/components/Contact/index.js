@@ -64,7 +64,7 @@ const Contact = () => {
       <Wrapper>
         <Title>Contact</Title>
         <Desc>
-          Feel free to reach out to me for any questions or opportunities directly at <b>"av7080181848@gmail.com"</b> or using the form below !!
+          Feel free to reach out to me for any questions or opportunities directly at <b>"amanverma4real@gmail.com"</b> or using the form below !!
         </Desc>
         <form action="https://formspree.io/f/mnqedjbl" method="POST">
           <h4>Email Me :</h4>
