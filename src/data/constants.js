@@ -62,11 +62,6 @@ export const Bio = {
           image: "https://nodejs.org/static/images/logo.svg",
         },
         {
-          name: "Java",
-          image:
-            "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-        },
-        {
           name: "php",
           image: "",
         },
@@ -102,8 +97,16 @@ export const Bio = {
           image:
             "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
         },
-        
-        
+        {
+          name: "Postman",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+        },
+        {
+          name: "Vercel",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+        },
         {
           name: "VS Code",
           image:
