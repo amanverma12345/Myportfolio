@@ -68,7 +68,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Aman Verma. All rights reserved.
+          &copy; 2025 Aman Verma. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
