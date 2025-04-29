@@ -12,7 +12,7 @@ input{
     border:;
   }
   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
-  transition: all 0.2s;
+  transition: all 0.3s;
   &:hover{
     transform: scale(0.99);
   }
